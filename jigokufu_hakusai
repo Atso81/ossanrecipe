@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>地獄風白菜</title>
+  <link rel="icon" href="https://atso81.github.io/ossanrecipe/DSC_0794.jpg">
+  <link rel="stylesheet" href="css/style.css">
+  <style type="text/css">
+    body{
+line-height : 100%;
+}
+  </style>
+</head>
+<body>
+  <body bgcolor="green" text="black"></body>
+  <header>
+    <a href="">
+      <h1><img src="https://atso81.github.io/ossanrecipe/jigokufu_hakusai.jpeg" alt="地獄風白菜の写真"
+        height="400"></h1>
+    </a>
+    
+  </header>
+</body>
+<h1>冷蔵庫に白菜が余っている時に！</h1>
+<br><br>
+<h2>■材料</h2>
+<br>
+<p>白菜:350g→5mm幅位に切る</p>
+<p>胡麻油:大さじ1</p>
+<p>豆板醤:大さじ1</p>
+<p>塩:小さじ1/5</p>
+<p>味の素:5振り</p>
+<p>鰹節:3g</p>
+<p>ラー油:適量</p>
+<br><br>
+<h2>■作り方</h2>
+<p>①フライパンに胡麻油を入れて白菜を軽く炒める。</p>
+<p>②豆板醤を入れて更に炒める。</p>
+<p>③塩と味の素を加えて更に炒める。</p>
+<p>④鰹節を加えてじっくり炒めて水分を飛ばす。</p>
+<p>⑤ラー油を加えて完成。</p>
+</html>
