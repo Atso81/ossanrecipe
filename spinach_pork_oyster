@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ほうれん草と豚肉のオイスター炒め</title>
+  <link rel="icon" href="https://atso81.github.io/ossanrecipe/DSC_0794.jpg">
+  <link rel="stylesheet" href="css/style.css">
+  <style type="text/css">
+    body{
+line-height : 100%;
+}
+  </style>
+</head>
+<body>
+  <body bgcolor="peach" text="black"></body>
+  <header>
+    <a href="">
+      <h1><img src="https://atso81.github.io/ossanrecipe/jigokufu_hakusai.jpeg" alt="ほうれん草と豚肉のオイスター炒めの写真"
+        height="400"></h1>
+    </a>
+    
+  </header>
+</body>
+<h1>ほうれん草ともやしが大量に残っている時に！</h1>
+<br><br>
+<h2>■材料</h2>
+<p>ほうれん草:200g</p>
+<p>豚こま:150g</p>
+<p>もやし:1/2袋</p>
+<p>糸唐辛子:適量</p>
+<p>胡麻油:小さじ2</p>
+<p>酒:大さじ1</p>
+<p>砂糖:小さじ1</p>
+<p>オイスターソース:大さじ1</p>
+<br><br>
+<h2>■作り方</h2>
+<p>①ほうれん草を食べやすい大きさに切り、耐熱容器に入れてラップをかけて、600wで2分加熱して、水に晒して水気を絞る。</p>
+<p>②フライパンに胡麻油を入れて、中火で豚こまを炒める。</p>
+<p>③もやし、酒、砂糖、オイスターソースを加えて炒める。</p>
+<p>④ほうれん草を加えてさっと炒めて、器に盛り、糸唐辛子を飾る。</p>
+</html>
